@@ -1,7 +1,7 @@
 {
-  "name": "React-Boilerplate",
+  "name": "react-header-npm-publish",
   "version": "1.0.0",
-  "description": "React Boilerplate",
+  "description": "react-header-npm-publish",
   "main": "public/bundle.js",
   "files": [
     "public"
