@@ -1,0 +1,12 @@
+.DS_Store
+*/**/.DS_Store
+node_modules/
+*/**/node_modules/
+dest/
+public/
+sample-files/
+npm-debug.log
+*/**/npm-debug.log
+bower_components/
+flow-typed/
+*/**/bower_components/
